@@ -2,6 +2,7 @@
 	"resources" : 
 		[
 		"Test",
-		"OtherTest"
+		"OtherTest",
+		"ThirdTest"
 		]
 }
