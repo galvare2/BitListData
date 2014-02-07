@@ -1,8 +1,8 @@
 {
 	"resources" : 
 		[
-		"Test",
-		"OtherTest",
-		"ThirdTest"
+		{ "name": "Test", "URL":"test.com"}, 
+		{"name": "Test2", "URL":"test2.com"},
+		{"name": "Test3", "URL":"test3.com"}
 		]
 }
