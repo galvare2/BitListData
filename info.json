@@ -1,8 +1,8 @@
 {
 	"resources" : 
 		[
-		{ "name": "Test", "URL":"test.com"}, 
-		{"name": "Test2", "URL":"test2.com"},
-		{"name": "Test3", "URL":"test3.com"}
+		{ "name": "Test", "URL":"test.com", "Profit": "$0", "Status":"Good", "Progress": "40%"}, 
+		{"name": "Test2", "URL":"test2.com", "Profit": "$1", "Status":"Good", "Progress": "40%"},
+		{"name": "Test3", "URL":"test3.com", "Profit": "$2", "Status":"Good", "Progress": "40%"}
 		]
 }
