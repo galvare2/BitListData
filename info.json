@@ -1,8 +1,8 @@
 {
 	"resources" : 
 		[
-		{ "name": "Test", "URL":"test.com", "Profit": "$0", "Founder":"Chris", "Status":"Due", "Progress": "40%"}, 
-		{"name": "Test2", "URL":"test2.com", "Profit": "$1", "Status":"Good", "Progress": "40%"},
-		{"name": "Test3", "URL":"test3.com", "Profit": "$2", "Founder":"Gabe", "Status":"Good", "Progress": "40%"}
+		{ "name": "Test", "URL":"test.com", "Profit": "$0", "Founder":"Chris", "Status":"Due", "Progress": "10%"}, 
+		{"name": "Test2", "URL":"test2.com", "Profit": "$1", "Status":"Good", "Progress": "20%"},
+		{"name": "Test3", "URL":"test3.com", "Profit": "$2", "Founder":"Gabe", "Status":"Good", "Progress": "60%"}
 		]
 }
