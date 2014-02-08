@@ -3,6 +3,6 @@
 		[
 		{ "name": "Test", "URL":"test.com", "Profit": "$0", "Founder":"Chris", "Status":"Due", "Progress": "10%"}, 
 		{"name": "Test2", "URL":"test2.com", "Profit": "$1", "Status":"Due", "Progress": "30%"},
-		{"name": "Test3", "URL":"test3.com", "Profit": "$2", "Founder":"Gabe", "Status":"Good", "Progress": "60%"}
+		{"name": "Test3", "URL":"test3.com", "Profit": "$2", "Founder":"Gabe", "Status":"Due", "Progress": "60%"}
 		]
 }
