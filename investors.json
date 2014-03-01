@@ -1,0 +1,8 @@
+{
+	"resources" : 
+		[
+		{ "Name": "TestInvestor", "Location": "Stanford, CA", "URL":"test.com", "Profit": "$0", "Status":"Due", "Progress": "10%"}, 
+		{"Name": "TestInvestor2", "URL":"test2.com", "Profit": "$1", "Status":"Due", "Progress": "30%"},
+		{"Name": "Test3", "URL":"test3.com", "Profit": "$2", "Founder":"Gabe", "Status":"Due", "Progress": "60%"}
+		]
+}
